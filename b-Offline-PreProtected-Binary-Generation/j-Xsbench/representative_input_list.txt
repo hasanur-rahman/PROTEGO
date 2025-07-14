@@ -1,0 +1,17 @@
+-t 1 -s small -g 595 -l 907
+-t 1 -s small -g 725 -l 1324
+-t 1 -s small -g 204 -l 68
+-t 1 -s small -g 512 -l 1500
+-t 1 -s small -g 321 -l 1669
+-t 1 -s small -g 200 -l 1336
+-t 1 -s small -g 99 -l 1356
+-t 1 -s small -g 93 -l 1215
+-t 1 -s small -g 25 -l 515
+-t 1 -s small -g 74 -l 1693
+-t 1 -s small -g 37 -l 1662
+-t 1 -s small -g 43 -l 1774
+-t 1 -s small -g 25 -l 1953
+-t 1 -s small -g 10 -l 905
+-t 1 -s small -g 10 -l 1228
+-t 1 -s small -g 10 -l 1866
+-t 1 -s small -g 10 -l 1940
