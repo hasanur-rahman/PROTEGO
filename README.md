@@ -9,6 +9,7 @@ Deploying Lightweight Input-Aware Selective Instruction Duplication in HPC Appli
 1. `a-Offline-Vulnerability-Guided-Search`: This performs our one-time fault injection-based vulnerability-guided offline search.
 2. `b-Offline-PreProtected-Binary-Generation`: Based on our vulnerability-based search analysis, this first form a handful of representative input groups. Within each group, a representative SID protected binary is generated and saved.
 3. `c-Runtime-SID-Protection-Generation`: Given an online input at runtime, this can efficiently selects an accurate protected binary from the pool of pre-generated representative binaries.
+4. `Utilities`: This contains LLVM-compiled applications and fault injection experiments.
 
 ## License
 
