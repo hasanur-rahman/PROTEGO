@@ -13,6 +13,6 @@ Deploying Lightweight Input-Aware Selective Instruction Duplication in HPC Appli
 
 ## License
 
-This work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
+**Until the conclusion of the SC'25 conference (Nov 16-21, 2025), this source code is proprietary and allowed for viewing only. Until then, the source code cannot be copied, modified, distributed, or used for any purpose without the explicit written permission of the author.**
 
-[![CC BY 4.0](https://licensebuttons.net/l/by/4.0/88x31.png)](https://creativecommons.org/licenses/by/4.0/)
+© Md Hasanur Rahman, 2025. All rights reserved.
